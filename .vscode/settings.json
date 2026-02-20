@@ -6,7 +6,7 @@
         "**/.vscode": true,
         "**/.gitignore": true,
         "**/README.md": true,
-        "**/.github": true,
+        "**/.github": true
     },
     "java.server.launchMode": "Standard",
     "java.dependency.packagePresentation": "hierarchical",
@@ -20,5 +20,5 @@
     "workbench.colorCustomizations": {
         "tree.indentGuidesStroke": "#05ef3c"
     },
-    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.colorTheme": "Default Dark Modern"
 }
